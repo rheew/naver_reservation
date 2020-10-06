@@ -26,5 +26,5 @@ https://www.youtube.com/watch?v=C2x83RMbbpY&list=PLf_fmgR0ghgSK1zzN_IFMj-mb6VWCB
 
 - 모든 프로젝트 섹션을 Pass 받고 수료증을 발급 받았다.
 - 기본적인 웹 개발을 할 수 있는 실력을 키울 수 있었다.
-- 블로그를 통해서 오류, 이슈, 정보들을 공유하는 시발점이 되었다.
+- 블로그를 통해서 오류, 이슈, 정보들을 공유하는 시발점이 되었다. (blog : https://hwi-programing.tistory.com/)
 - 각종 문제들을 직면하면서 빠르게 정보를 얻을 수 있는 능력을 키울 수 있었다.
