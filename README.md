@@ -19,6 +19,10 @@
 4.예약 상품 조회
 5.상품 리뷰
 
+# 기술 스택
+- back end : Spring, Java, MySql, WEB API
+- front end : JavaScript, Ajax, HTTP/CSS
+
 # 구현 영상
 https://www.youtube.com/watch?v=C2x83RMbbpY&list=PLf_fmgR0ghgSK1zzN_IFMj-mb6VWCBh2O
 
