@@ -20,7 +20,7 @@
 5.상품 리뷰
 
 # 구현 영상
-
+https://www.youtube.com/watch?v=C2x83RMbbpY&list=PLf_fmgR0ghgSK1zzN_IFMj-mb6VWCBh2O
 
 # 결과
 
